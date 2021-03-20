@@ -55,5 +55,6 @@ export function createToolbar(s) {
             active: s['fontStyle'] === 'italic'
         }
     ]
+
     return buttons.map(toButton).join('')
 }
