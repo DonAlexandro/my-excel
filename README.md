@@ -1,6 +1,6 @@
 # JS Excel
 Excel, that is familiar to Google Spreadsheet, created using pure JS.
-No libraries no frameworks. I've written this project during the course to improve my JavaScript skills.
+No libraries, no frameworks. I've written this project during the course to improve my JavaScript skills.
 
 ## Available scripts
 
